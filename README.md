@@ -152,7 +152,7 @@ Konfirmasi sebelum menghapus data dengan menggunakan onclick JavaScript.
 📃 Kode ini bertujuan untuk menangani form penambahan data makanan. Sistem ini memvalidasi input yang diberikan oleh pengguna dan kemudian menyimpan data ke dalam database setelah pengecekan.
 
 🌟 Fitur utama:
-Form Input Data:
+
 
 # 1. Terdapat dua field input dalam form:
  * Nama Makanan: Untuk memasukkan nama makanan yang akan ditambahkan.
