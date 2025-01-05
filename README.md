@@ -11,11 +11,12 @@
 
 
 
-:tada: # PROYEK  WEB *db_kuliner*
+# PROYEK  WEB *db_kuliner🍴*
 *by:Lutpiah Ainus Shiddik*
 
 <div align="center">
   <h1 style="color: #FF5733;">Café Milenial: Kuliner Makanan dan Minuman</h1>
+  🍚, 🍽️, 🍺
 </div>
 
 
@@ -34,7 +35,7 @@ proyek ini adalah halaman web sederhana yang menampilkan beberapa makanan dan mi
 
 
 
- :fitur: Fitur Utama Halaman:
+ 🌟 Fitur Utama Halaman:
 
 
 # 1.Navigasi Mudah
@@ -52,7 +53,7 @@ proyek ini adalah halaman web sederhana yang menampilkan beberapa makanan dan mi
 # 5.Desain Visual yang Konsisten
   * Menggunakan palet warna pink yang serasi, menciptakan suasana modern dan estetik.
 
-*Halaman ini dirancang untuk memberikan kesan pertama yang baik kepada pengunjung, mempromosikan menu andalan, serta memudahkan akses ke informasi penting cafe.*
+  *Halaman ini dirancang untuk memberikan kesan pertama yang baik kepada pengunjung, mempromosikan menu andalan, serta memudahkan akses ke informasi penting cafe.*
 
 
 
@@ -64,7 +65,7 @@ proyek ini adalah halaman web sederhana yang menampilkan beberapa makanan dan mi
 
 
 
-Fitur utama:
+🌟 Fitur utama:
 # 1. Navigasi Sederhana
  * Tampilan navigasi yang terdiri dari menu "Home", "Makanan", "Minuman", "About", dan "Contact" membuat pengunjung mudah menavigasi website untuk menemukan informasi yang mereka butuhkan.
 
@@ -103,12 +104,12 @@ Fitur utama:
  * Mencantumkan alamat dan jam operasional kafe, memudahkan pengunjung untuk menghubungi atau mengunjungi kafe.
 
 
-# HALAMAN CONTACT
+# HALAMAN CONTACT📞
 <img width="959" alt="contact" src="https://github.com/user-attachments/assets/c32d7d76-70bc-40b4-a5ec-b1fad31e8690" />
 
 
 
-Fitur utama:
+🌟 Fitur utama:
 # 1. Formulir Kontak
  Memungkinkan pengunjung untuk berkomunikasi langsung dengan pihak kafe.
 # 2. Newsletter
@@ -123,9 +124,9 @@ Fitur utama:
  <img width="957" alt="makananview" src="https://github.com/user-attachments/assets/b29029d9-b23a-43d2-a9a9-5ac52c5321f8" />
 
 
- Halaman ini digunakan untuk menampilkan, menambahkan, mengedit, dan menghapus data makanan yang berasal dari database. Data ditampilkan dalam bentuk tabel yang interaktif dan responsif.
+ 📃 Halaman ini digunakan untuk menampilkan, menambahkan, mengedit, dan menghapus data makanan yang berasal dari database. Data ditampilkan dalam bentuk tabel yang interaktif dan responsif.
   
-Fitur utama:
+🌟 Fitur utama:
 # 1. Tampilan Responsif
  * Menggunakan Bootstrap 5.3 untuk tampilan modern dan responsif.
 
@@ -148,9 +149,9 @@ Konfirmasi sebelum menghapus data dengan menggunakan onclick JavaScript.
 <img width="955" alt="add proses makanan" src="https://github.com/user-attachments/assets/edb6881e-7b0e-4bb9-a69d-ceb022a70ffd" />
 
 
-Kode ini bertujuan untuk menangani form penambahan data makanan. Sistem ini memvalidasi input yang diberikan oleh pengguna dan kemudian menyimpan data ke dalam database setelah pengecekan.
+📃 Kode ini bertujuan untuk menangani form penambahan data makanan. Sistem ini memvalidasi input yang diberikan oleh pengguna dan kemudian menyimpan data ke dalam database setelah pengecekan.
 
-Fitur utama:
+🌟 Fitur utama:
 Form Input Data:
 
 # 1. Terdapat dua field input dalam form:
@@ -173,9 +174,9 @@ Tombol Aksi:
 # HALAMAN Update Proses Makanan
 <img width="955" alt="makananaddproses" src="https://github.com/user-attachments/assets/ae5fbbc3-365c-4de1-acfb-c20f8cd125e0" />
  
-Kode ini bertujuan untuk menangani proses pembaruan (update) data makanan dalam sistem. Sistem ini memvalidasi input yang diberikan oleh pengguna sebelum melakukan pembaruan data di database.
+📃 Kode ini bertujuan untuk menangani proses pembaruan (update) data makanan dalam sistem. Sistem ini memvalidasi input yang diberikan oleh pengguna sebelum melakukan pembaruan data di database.
 
-Fitur utama:
+🌟 Fitur utama:
 # 1. Formulir Input Data
  * Dua kolom input, yaitu:
      * Nama Makanan: Untuk memasukkan nama makanan.
@@ -199,9 +200,9 @@ Fitur utama:
 <img width="956" alt="minumanview" src="https://github.com/user-attachments/assets/a1abfaaf-f3ee-4911-b8ff-a137689ad661" />
 
 
-Halaman ini digunakan untuk menampilkan daftar minuman yang tersimpan dalam database. Pengguna dapat melihat data minuman yang sudah ada, menambah data baru, serta mengedit atau menghapus data yang ada.
+📃 Halaman ini digunakan untuk menampilkan daftar minuman yang tersimpan dalam database. Pengguna dapat melihat data minuman yang sudah ada, menambah data baru, serta mengedit atau menghapus data yang ada.
 
-Fitur utama:
+🌟 Fitur utama:
 # 1. Tabel Data Minuman:
  * Berisi daftar minuman yang tersedia, dengan kolom-kolom berikut:
    * No: Nomor urut data.
@@ -226,8 +227,9 @@ Fitur utama:
 # HALAMAN Add Prosses Minuman
 <img width="954" alt="addprosesminuman" src="https://github.com/user-attachments/assets/5dd6ca31-b351-44b7-a0e6-a430032bb4e4" />
 
-Kode ini digunakan untuk menangani proses penambahan data minuman ke dalam database. Sistem ini memvalidasi input dari pengguna, memeriksa duplikasi data, dan kemudian menyimpan data minuman jika semua validasi berhasil.
+📃 Kode ini digunakan untuk menangani proses penambahan data minuman ke dalam database. Sistem ini memvalidasi input dari pengguna, memeriksa duplikasi data, dan kemudian menyimpan data minuman jika semua validasi berhasil.
 
+🌟 Fitur utama
 # 1. form Tambah Data Minuman:
 * Terdapat form dengan judul "Tambah Data Daftar Minuman" untuk menginput informasi minuman baru.
 
@@ -246,9 +248,9 @@ Kode ini digunakan untuk menangani proses penambahan data minuman ke dalam datab
 # HALAMAN Update Proses Minuman
 <img width="955" alt="prossesaddminum" src="https://github.com/user-attachments/assets/fe97905e-7c5b-4a15-b8f9-831521777d67" />
 
-Kode ini bertujuan untuk menangani proses pembaruan (update) data minuman dalam sistem. Sistem ini memvalidasi input yang diberikan oleh pengguna sebelum melakukan pembaruan data di database.
+📃 Kode ini bertujuan untuk menangani proses pembaruan (update) data minuman dalam sistem. Sistem ini memvalidasi input yang diberikan oleh pengguna sebelum melakukan pembaruan data di database.
 
-Fitur utama:
+🌟 Fitur utama:
 # 1. Formulir Input Data
  * Dua kolom input, yaitu:
      * Nama Minuman: Untuk memasukkan nama minuman.
@@ -272,7 +274,7 @@ HTML5 - Struktur dasar halaman. CSS3 - Menampilkan konten makanan secara dinamis
 
 Jangan lupa untuk mengikuti saya di platform berikut:
 
-# Kontak Saya
+# 🌐 Kontak Saya
 
 | **Platform** | **Username/Kontak**  | **Link**                                                      |
 |--------------|-----------------------|--------------------------------------------------------------|
