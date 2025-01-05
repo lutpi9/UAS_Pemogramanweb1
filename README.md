@@ -54,53 +54,57 @@ Fitur Utama Halaman:
 *Halaman ini dirancang untuk memberikan kesan pertama yang baik kepada pengunjung, mempromosikan menu andalan, serta memudahkan akses ke informasi penting cafe.*
 
 
+
 # HALAMAN ABOUT 
 <img width="946" alt="about1" src="https://github.com/user-attachments/assets/5c14a083-b46d-4fc9-bb57-c8dfa61b5f4d" />
+<img width="941" alt="about2" src="https://github.com/user-attachments/assets/9ed2ca76-bf89-42fb-b97e-18772a801979" />
+<img width="944" alt="about3" src="https://github.com/user-attachments/assets/d4d8d6fd-a39d-42de-bcbf-48dd04cf5a4d" />
 
 
 
 
 Fitur utama:
 # 1. Navigasi Sederhana
- Tampilan navigasi yang terdiri dari menu "Home", "Makanan", "Minuman", "About", dan "Contact" membuat pengunjung mudah menavigasi website untuk menemukan informasi yang mereka butuhkan.
+ * Tampilan navigasi yang terdiri dari menu "Home", "Makanan", "Minuman", "About", dan "Contact" membuat pengunjung mudah menavigasi website untuk menemukan informasi yang mereka butuhkan.
 
 # 2. Tampilan yang Menarik
- Penggunaan warna pastel dan gambar bangunan kafe yang menarik membuat tampilan website menjadi lebih estetik dan menarik perhatian pengunjung.
+ * Penggunaan warna pastel dan gambar bangunan kafe yang menarik membuat tampilan website menjadi lebih estetik dan menarik perhatian pengunjung.
 
 # 3. Call to Action
- Kalimat "Selamat Datang di Kuliner Cafe" dan tombol "Lihat Menu" merupakan contoh dari call to action yang mengajak pengunjung untuk melakukan tindakan selanjutnya, yaitu melihat menu yang ditawarkan.
+ * Kalimat "Selamat Datang di Kuliner Cafe" dan tombol "Lihat Menu" merupakan contoh dari call to action yang mengajak pengunjung untuk melakukan tindakan selanjutnya, yaitu melihat menu yang ditawarkan.
 
 # 4. Logo yang Menarik
- Logo Cafe Milenial yang sederhana namun elegan memberikan kesan yang profesional dan mudah diingat.
+ * Logo Cafe Milenial yang sederhana namun elegan memberikan kesan yang profesional dan mudah diingat.
 
 # 5. Struktur Informasi yang Jelas
- Informasi mengenai kafe disajikan dengan struktur yang jelas dan mudah dipahami, sehingga pengunjung dapat dengan cepat menemukan informasi yang mereka cari.
+ * Informasi mengenai kafe disajikan dengan struktur yang jelas dan mudah dipahami, sehingga pengunjung dapat dengan cepat menemukan informasi yang mereka cari.
 
 # 6. Responsive Design
- (Meskipun tidak terlihat dari tampilan yang diberikan, namun umumnya website modern dirancang dengan responsive design sehingga tampilannya akan menyesuaikan dengan ukuran layar perangkat yang digunakan, baik itu komputer, tablet, atau smartphone.)
+ * (Meskipun tidak terlihat dari tampilan yang diberikan, namun umumnya website modern dirancang dengan responsive design sehingga tampilannya akan menyesuaikan dengan ukuran layar perangkat yang digunakan, baik itu komputer, tablet, atau smartphone.)
 
 # 7. Pengelompokan Menu yang Jelas 
- Pengelompokan ini memudahkan pelanggan untuk menemukan jenis makanan yang mereka inginkan.
+ * Pengelompokan ini memudahkan pelanggan untuk menemukan jenis makanan yang mereka inginkan.
 # 8. Penggunaan Gambar
-Gambar makanan yang berkualitas tinggi dapat membangkitkan selera makan pelanggan dan memberikan gambaran yang jelas tentang tampilan makanan sebenarnya.
+* Gambar makanan yang berkualitas tinggi dapat membangkitkan selera makan pelanggan dan memberikan gambaran yang jelas tentang tampilan makanan sebenarnya.
 # 9. Nama Menu yang Singkat dan Jelas
-Nama menu yang digunakan singkat, jelas, dan mudah diingat. Ini membantu pelanggan dengan cepat memahami apa yang mereka pesan.
+* Nama menu yang digunakan singkat, jelas, dan mudah diingat. Ini membantu pelanggan dengan cepat memahami apa yang mereka pesan.
 # 10. Tata Letak yang Sederhana
-Penggunaan warna latar belakang yang lembut dan font yang mudah dibaca membuat tampilan menu menjadi lebih nyaman dilihat.
+* Penggunaan warna latar belakang yang lembut dan font yang mudah dibaca membuat tampilan menu menjadi lebih nyaman dilihat.
 # 11. Judul yang Jelas
-Judul "Tentang Kami" langsung memberikan informasi kepada pengunjung tentang isi halaman.
+* Judul "Tentang Kami" langsung memberikan informasi kepada pengunjung tentang isi halaman.
 # 12. Deskripsi Singkat
-Paragraf pembuka memberikan gambaran umum tentang kafe, meskipun bisa lebih diperkaya dengan detail yang lebih menarik.
+* Paragraf pembuka memberikan gambaran umum tentang kafe, meskipun bisa lebih diperkaya dengan detail yang lebih menarik.
 # 13. Tombol "Pelajari Lebih Lanjut"
-Tombol ini berfungsi sebagai ajakan bagi pengunjung untuk menggali informasi lebih dalam tentang kafe.
+* Tombol ini berfungsi sebagai ajakan bagi pengunjung untuk menggali informasi lebih dalam tentang kafe.
 # 14. Daftar Layanan
- Disajikan secara sederhana dan mudah dipahami, mencantumkan layanan utama yang ditawarkan kafe.
+ * Disajikan secara sederhana dan mudah dipahami, mencantumkan layanan utama yang ditawarkan kafe.
 # 15. Informasi Kontak
- Mencantumkan alamat dan jam operasional kafe, memudahkan pengunjung untuk menghubungi atau mengunjungi kafe.
+ * Mencantumkan alamat dan jam operasional kafe, memudahkan pengunjung untuk menghubungi atau mengunjungi kafe.
 
 
 # HALAMAN CONTACT
-![alt text](image-9.png)
+<img width="959" alt="contact" src="https://github.com/user-attachments/assets/c32d7d76-70bc-40b4-a5ec-b1fad31e8690" />
+
 
 
 Fitur utama:
@@ -115,7 +119,8 @@ Fitur utama:
 
 
  # HALAMAN VIEW MAKANAN
- ![alt text](image-11.png)
+ <img width="957" alt="makananview" src="https://github.com/user-attachments/assets/b29029d9-b23a-43d2-a9a9-5ac52c5321f8" />
+
 
  Halaman ini digunakan untuk menampilkan, menambahkan, mengedit, dan menghapus data makanan yang berasal dari database. Data ditampilkan dalam bentuk tabel yang interaktif dan responsif.
   
@@ -139,7 +144,8 @@ Konfirmasi sebelum menghapus data dengan menggunakan onclick JavaScript.
 
 
 # HALAMAN Add Proses Makanan
-![alt text](image-12.png)
+<img width="955" alt="add proses makanan" src="https://github.com/user-attachments/assets/edb6881e-7b0e-4bb9-a69d-ceb022a70ffd" />
+
 
 Kode ini bertujuan untuk menangani form penambahan data makanan. Sistem ini memvalidasi input yang diberikan oleh pengguna dan kemudian menyimpan data ke dalam database setelah pengecekan.
 
@@ -164,8 +170,8 @@ Tombol Aksi:
 
 
 # HALAMAN Update Proses Makanan
-![alt text](image-14.png)
-
+<img width="955" alt="makananaddproses" src="https://github.com/user-attachments/assets/ae5fbbc3-365c-4de1-acfb-c20f8cd125e0" />
+ 
 Kode ini bertujuan untuk menangani proses pembaruan (update) data makanan dalam sistem. Sistem ini memvalidasi input yang diberikan oleh pengguna sebelum melakukan pembaruan data di database.
 
 Fitur utama:
@@ -189,7 +195,8 @@ Fitur utama:
 
 
 # HALAMAN VIEW MINUMAN 
-![alt text](minumanview.png)
+<img width="956" alt="minumanview" src="https://github.com/user-attachments/assets/a1abfaaf-f3ee-4911-b8ff-a137689ad661" />
+
 
 Halaman ini digunakan untuk menampilkan daftar minuman yang tersimpan dalam database. Pengguna dapat melihat data minuman yang sudah ada, menambah data baru, serta mengedit atau menghapus data yang ada.
 
@@ -216,7 +223,8 @@ Fitur utama:
 
 
 # HALAMAN Add Prosses Minuman
-![alt text](image-15.png)
+<img width="954" alt="addprosesminuman" src="https://github.com/user-attachments/assets/5dd6ca31-b351-44b7-a0e6-a430032bb4e4" />
+
 Kode ini digunakan untuk menangani proses penambahan data minuman ke dalam database. Sistem ini memvalidasi input dari pengguna, memeriksa duplikasi data, dan kemudian menyimpan data minuman jika semua validasi berhasil.
 
 # 1. form Tambah Data Minuman:
@@ -235,7 +243,7 @@ Kode ini digunakan untuk menangani proses penambahan data minuman ke dalam datab
 
 
 # HALAMAN Update Proses Minuman
-![alt text](prossesaddminum.png)
+<img width="955" alt="prossesaddminum" src="https://github.com/user-attachments/assets/fe97905e-7c5b-4a15-b8f9-831521777d67" />
 
 Kode ini bertujuan untuk menangani proses pembaruan (update) data minuman dalam sistem. Sistem ini memvalidasi input yang diberikan oleh pengguna sebelum melakukan pembaruan data di database.
 
@@ -271,3 +279,5 @@ Jangan lupa untuk mengikuti saya di platform berikut:
 | LinkedIn     | Lutpiah Ainus Shiddik    | https://www.linkedin.com/in/lutpiah-ainus-shiddik-70987a302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app          |
 | Instagran    | @luluuu_piii      |     https://www.instagram.com/luluuu_piii?igsh=MTB3aHAxZDU1bnh4Zw==            |
 | Email        | lutpiahainus@gmail.com   | https://lutpiahainus@gmail.com                   |
+
+# *TERIMAKASIH*
