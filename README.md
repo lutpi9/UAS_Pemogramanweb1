@@ -24,9 +24,10 @@ proyek ini adalah halaman web sederhana yang menampilkan beberapa makanan dan mi
 
 # HALAMAN HOME
 <p style="margin: 0; padding: 0;">
-  <img width="947" style="display: block; margin: 0;" alt="home1" src="https://github.com/user-attachments/assets/0ffe8056-8f18-4fd6-9cc9-428bddb46f4a" />
-  <img width="947" style="display: block; margin: 0;" alt="home_2" src="https://github.com/user-attachments/assets/e964174e-e1eb-4d80-8f16-20230df67637" />
+  <img width="947" style="display: block; margin: 0; padding: 0;" alt="home1" src="https://github.com/user-attachments/assets/0ffe8056-8f18-4fd6-9cc9-428bddb46f4a" />
+  <img width="947" style="display: block; margin: 0; padding: 0;" alt="home_2" src="https://github.com/user-attachments/assets/e964174e-e1eb-4d80-8f16-20230df67637" />
 </p>
+
 
 
 
