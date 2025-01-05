@@ -11,7 +11,7 @@
 
 
 
-# PROYEK  WEB *db_kuliner*
+:tada: # PROYEK  WEB *db_kuliner*
 *by:Lutpiah Ainus Shiddik*
 
 <div align="center">
@@ -34,7 +34,7 @@ proyek ini adalah halaman web sederhana yang menampilkan beberapa makanan dan mi
 
 
 
-:tada: Fitur Utama Halaman: :rocket:
+ :fitur: Fitur Utama Halaman:
 
 
 # 1.Navigasi Mudah
