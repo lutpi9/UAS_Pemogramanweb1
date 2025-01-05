@@ -23,35 +23,35 @@ proyek ini adalah halaman web sederhana yang menampilkan beberapa makanan dan mi
 
 
 # HALAMAN HOME
-<img width="947" alt="home1" src="https://github.com/user-attachments/assets/0ffe8056-8f18-4fd6-9cc9-428bddb46f4a" />
-<img width="947" alt="home_2" src="https://github.com/user-attachments/assets/e964174e-e1eb-4d80-8f16-20230df67637" />
+<img width="947" alt="home1" src="https://github.com/user-attachments/assets/0ffe8056-8f18-4fd6-9cc9-428bddb46f4a" /><img width="947" alt="home_2" src="https://github.com/user-attachments/assets/e964174e-e1eb-4d80-8f16-20230df67637" />
+
 
 
 
 Fitur Utama Halaman:
 
 # 1.Navigasi Mudah
-  Menu di bagian atas memudahkan pengunjung untuk berpindah antar halaman.
+  * Menu di bagian atas memudahkan pengunjung untuk berpindah antar halaman.
 
 # 2.Galeri Menu Spesial
-  Menampilkan berbagai pilihan makanan dan minuman dengan deskripsi singkat untuk menarik perhatian pelanggan.
+   * Menampilkan berbagai pilihan makanan dan minuman dengan deskripsi singkat untuk menarik perhatian pelanggan.
 
 # 3.Pesan Sambutan
-  Memberikan pengenalan singkat tentang filosofi dan keunikan cafe, menciptakan kesan profesional sekaligus ramah.
+  * Memberikan pengenalan singkat tentang filosofi dan keunikan cafe, menciptakan kesan profesional sekaligus ramah.
 
 # 4.Kontak Informasi
-  Tersedia informasi lengkap di footer untuk kemudahan pelanggan menghubungi cafe.
+  * Tersedia informasi lengkap di footer untuk kemudahan pelanggan menghubungi cafe.
 
 # 5.Desain Visual yang Konsisten
-  Menggunakan palet warna pink yang serasi, menciptakan suasana modern dan estetik.
+  * Menggunakan palet warna pink yang serasi, menciptakan suasana modern dan estetik.
 
 *Halaman ini dirancang untuk memberikan kesan pertama yang baik kepada pengunjung, mempromosikan menu andalan, serta memudahkan akses ke informasi penting cafe.*
 
 
 # HALAMAN ABOUT 
-![alt text](image-6.png)
-![](image-3.png)
-![alt text](image-5.png)
+<img width="946" alt="about1" src="https://github.com/user-attachments/assets/5c14a083-b46d-4fc9-bb57-c8dfa61b5f4d" />
+
+
 
 
 Fitur utama:
