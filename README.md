@@ -34,7 +34,8 @@ proyek ini adalah halaman web sederhana yang menampilkan beberapa makanan dan mi
 
 
 
-Fitur Utama Halaman:
+Fitur Utama Halaman::tada: Selamat datang di repositori saya! :rocket:
+
 
 # 1.Navigasi Mudah
   * Menu di bagian atas memudahkan pengunjung untuk berpindah antar halaman.
