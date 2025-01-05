@@ -14,18 +14,10 @@
 # PROYEK  WEB *db_kuliner*
 *by:Lutpiah Ainus Shiddik*
 
-<div style="text-align: center;">
-  <h1 style="color: #FF5733; animation: colorchange 2s infinite;">
-    Café Milenial: Kuliner Makanan dan Minuman
-  </h1>
-  <style>
-    @keyframes colorchange {
-      0% { color:rgb(215, 99, 188); }
-      50% { color:rgb(185, 92, 171); }
-      100% { color:rgb(55, 19, 44); }
-    }
-  </style>
+<div align="center">
+  <h1 style="color: #FF5733;">Café Milenial: Kuliner Makanan dan Minuman</h1>
 </div>
+
 
 proyek ini adalah halaman web sederhana yang menampilkan beberapa makanan dan minuman dari cafe milenial menggunakan HTML, CSS, dan PHP.
 
